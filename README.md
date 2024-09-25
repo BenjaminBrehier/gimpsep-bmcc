@@ -45,3 +45,7 @@ Maintenant vous pouvez fermer la fenêtre de config.
 Dans la barre en haut de la vue générale de Visual Studio community, vous avez la petite flèche verte pour run, et à gauche vous avez deux options : Vous devez les passer à "Release" et "x64"
 
 Ensuite, vous pouver run, et normalement ca devrait marcher.
+
+## Pour Mac
+![Arc 02-04-2024 a 13 38 01@2x](https://github.com/user-attachments/assets/c780669a-2e93-49b4-84ea-8d5c79988cd9)
+
